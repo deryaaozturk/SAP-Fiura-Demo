@@ -1,0 +1,73 @@
+[
+  
+        {
+            "ProductName": "KFC",
+            "Quantity": 2,
+            "ExtendedPrice": 87.2,
+            "ShipperName": "Fun Inc.",
+            "ShippedDate": "2015-04-01T00:00:00",
+            "Status": "C",
+            "STT":"GEÇMİŞ",
+            "icon":"sap-icon://action"
+        },
+        {
+            "ProductName": "POPEYES",
+            "Quantity": 3,
+            "ExtendedPrice": 10,
+            "ShipperName": "ACME",
+            "ShippedDate": "2015-02-18T00:00:00",
+            "Status": "B",
+             "STT":"SON GÜN",
+             "icon":"sap-icon://action"
+        },
+        {
+            "ProductName": "TAVUK DÜNYASI",
+            "Quantity": 3,
+            "ExtendedPrice": 6.85,
+            "ShipperName": "ACME",
+            "ShippedDate": "2015-03-02T00:00:00",
+            "Status": "B",
+            "STT":"GEÇMİŞ",
+            "icon":"sap-icon://action"
+        },
+        {
+            "ProductName": "BURGER KING",
+            "Quantity": 2,
+            "ExtendedPrice": 8.8,
+            "ShipperName": "ACME",
+            "ShippedDate": "2015-04-12T00:00:00",
+            "Status": "C",
+            "STT":"1 AY ZAMANI VAR",
+            "icon":"sap-icon://action"
+        },
+        {
+            "ProductName": "MC DONALDS",
+            "Quantity": 1,
+            "ExtendedPrice": 2.71,
+            "ShipperName": "Fun Inc.",
+            "ShippedDate": "2015-01-27T00:00:00",
+            "Status": "A",
+            "STT":"GEÇMİŞ",
+            "icon":"sap-icon://action"
+        },
+        {
+            "ProductName": "STARBUCKS",
+            "Quantity": 1,
+            "ExtendedPrice": 2.71,
+            "ShipperName": "Fun Inc.",
+            "ShippedDate": "2015-01-27T00:00:00",
+            "Status": "A",
+            "STT":"SON GÜN",
+            "icon":"sap-icon://action"
+
+        },{
+            "ProductName": "MAVİ SANDAL",
+            "Quantity": 1,
+            "ExtendedPrice": 2.71,
+            "ShipperName": "Fun Inc.",
+            "ShippedDate": "2015-01-27T00:00:00",
+            "Status": "A",
+            "STT":"1 AY ZAMANI VAR",
+            "icon":"sap-icon://action"
+        }
+    ]
