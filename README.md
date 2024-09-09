@@ -1,7 +1,7 @@
 SAP UI5 Ürün Yönetim Uygulaması
 
-Bu proje, SAP UI5 kullanılarak geliştirilen bir ürün yönetim uygulamasıdır. Uygulama, ürünlerin listelenmesi, detaylarının görüntülenmesi ve kullanıcıların ürünlere puan vermesi gibi özellikler sunmaktadır.Listedeki ürünlerin üzerine tıklayarak detaylarına erişebilirsiniz.
-
+Bu proje, SAP UI5 kullanılarak geliştirilen bir ürün yönetim uygulamasıdır. Uygulama, ürünlerin listelenmesi, detaylarının görüntülenmesi ve kullanıcıların ürünlere puan vermesi gibi özellikler sunmaktadır.Ürünler taşıyıcı firmalarına göre gruplandırılmış olup, sütunlarda sahip oldukları özellikler belirtilmiştir. Fatura ekranında "İsim" sütunu kullanılarak filtrelendirme
+yapılabilir. İlgili ürün seçildiğinde ise ürüne ait tüm özellikler gösterilmiş olup, 5li puan sistemi olarak puanlandırma yapılabilmektedir.
 
 Özellikler:
 
@@ -18,6 +18,8 @@ Kurulum:
 
 Projeyi klonlayın: git clone <repo-url>
 Gerekli bağımlılıkları yükleyin ve projeyi çalıştırın.
+
+
 ![github](https://github.com/user-attachments/assets/8393f244-5433-4706-8663-8e33099a14c3)
 
 
